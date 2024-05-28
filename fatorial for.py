@@ -1,3 +1,5 @@
+#Fazer um programa que solicite um número e calcule o seu fatorial
+
 num= int(input('Digite o numero para fatoriar '))
 soma=1
 contador=1
